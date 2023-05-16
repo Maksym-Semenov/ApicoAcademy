@@ -1,1 +1,1 @@
-I am study JS from ApicoAcademy https://apiko.academy/
+I have been studying JS from ApicoAcademy https://apiko.academy/
